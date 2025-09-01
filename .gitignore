@@ -33,5 +33,5 @@ build/
 .vscode/
 logs/
 *.code-workspace
-DS_Store
+.DS_Store
 *.log
