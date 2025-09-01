@@ -2,8 +2,8 @@
 
 ## Version: 3.5.5, Lombok, Multi Profiles.
 
-#### Watch out for VSCode specific settings in `.vscode` folder
-
+<details>
+<summary>Watch out for VSCode specific settings in `.vscode` folder</summary>
 **launch.json**
 
 ```json
@@ -43,6 +43,7 @@
     </resource>
 </resources>
 ```
+</details>
 
 ## Profiles
 
